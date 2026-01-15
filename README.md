@@ -11,9 +11,6 @@ but `MapControl` and its underlying `SKGLView` remain alive.
 ## Affected versions
 - Mapsui.Maui: **5.0.2**
 - Mapsui: **5.0.2**
-- MAUI: <TO_FILL>
-- .NET: <TO_FILL>
-- SkiaSharp: <TO_FILL>
 
 ---
 
