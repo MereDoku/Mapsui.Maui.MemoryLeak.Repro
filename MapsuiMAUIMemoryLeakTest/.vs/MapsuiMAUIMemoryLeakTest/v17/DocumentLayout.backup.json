@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\mappage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:mappage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\mappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:mappage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\memorytoolkit\\visualleakcheckqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:memorytoolkit\\visualleakcheckqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\memorytoolkit\\collectiontarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:memorytoolkit\\collectiontarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\memorytoolkit\\visualtreesnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:memorytoolkit\\visualtreesnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\memorytoolkit\\visualtreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:memorytoolkit\\visualtreenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:globalxmlns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|c:\\git\\mapsuimauimemoryleaktest\\mapsuimauimemoryleaktest\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8A879DED-9BFC-40F9-8AE7-D82B534A9ED6}|MapsuiMAUIMemoryLeakTest.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisualTreeSnapshot.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\VisualTreeSnapshot.cs",
+              "RelativeDocumentMoniker": "MemoryToolkit\\VisualTreeSnapshot.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\VisualTreeSnapshot.cs",
+              "RelativeToolTip": "MemoryToolkit\\VisualTreeSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:53:43.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VisualTreeNode.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\VisualTreeNode.cs",
+              "RelativeDocumentMoniker": "MemoryToolkit\\VisualTreeNode.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\VisualTreeNode.cs",
+              "RelativeToolTip": "MemoryToolkit\\VisualTreeNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:53:38.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisualLeakCheckQueue.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\VisualLeakCheckQueue.cs",
+              "RelativeDocumentMoniker": "MemoryToolkit\\VisualLeakCheckQueue.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\VisualLeakCheckQueue.cs",
+              "RelativeToolTip": "MemoryToolkit\\VisualLeakCheckQueue.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:53:35.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CollectionTarget.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\CollectionTarget.cs",
+              "RelativeDocumentMoniker": "MemoryToolkit\\CollectionTarget.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MemoryToolkit\\CollectionTarget.cs",
+              "RelativeToolTip": "MemoryToolkit\\CollectionTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:53:31.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalXmlns.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\GlobalXmlns.cs",
+              "RelativeDocumentMoniker": "GlobalXmlns.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\GlobalXmlns.cs",
+              "RelativeToolTip": "GlobalXmlns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:37:46.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MapPage.xaml.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MapPage.xaml.cs",
+              "RelativeDocumentMoniker": "MapPage.xaml.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MapPage.xaml.cs",
+              "RelativeToolTip": "MapPage.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:36:23.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapPage.xaml",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MapPage.xaml",
+              "RelativeDocumentMoniker": "MapPage.xaml",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MapPage.xaml",
+              "RelativeToolTip": "MapPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-15T09:35:51.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:34:31.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Git\\MapsuiMAUIMemoryLeakTest\\MapsuiMAUIMemoryLeakTest\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-15T09:24:07.232Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 505,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{21457f7c-a428-477e-ae6d-e2b608734650}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapsuiMAUIMemoryLeakTest.MainPage">
+
+    <VerticalStackLayout
+        Padding="30"
+        Spacing="20"
+        VerticalOptions="Center">
+        <Label
+            Text="Test Mapsui Memory Leak"
+            FontSize="24"
+            HorizontalOptions="Center" />
+        <Button
+            x:Name="OpenMapButton"
+            Text="Open a map"
+            Clicked="OnOpenMapClicked"
+            HorizontalOptions="Center" />
+    </VerticalStackLayout>
+
+</ContentPage>
